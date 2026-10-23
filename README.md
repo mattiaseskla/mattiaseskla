@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Mattias 👋
 
-<!--
-**mattiaseskla/mattiaseskla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software development student at **kood/Võru**, Estonia, currently focusing on Java, backend development, and building practical programming skills.
 
-Here are some ideas to get you started:
+Before transitioning into software development, I studied mechatronics, where I developed an interest in programming and technical problem-solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies I'm working with
+- Java
+- Maven
+- JUnit 5
+- Git
+
+### Projects
+**TraceFinder** — A Java command-line application for analyzing log files, identifying suspicious activity using configurable rules, and generating reports. Developed as a collaborative project.
+
+### Connect
+[LinkedIn](https://www.linkedin.com/in/mattias-eskla)
